@@ -16,3 +16,4 @@ Apaixonado por Java e Vasco
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilaacedo)](https://github.com/anuraghazra/github-readme-stats)
+<img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=atilaacedo&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
